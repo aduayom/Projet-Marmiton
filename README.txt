@@ -4,6 +4,8 @@
 bs4, time.
 2-Conserver le contenu du fichier zip dans un seul dossier 
 3-Code fonctionne sur la version python 3.7
+4-Le chrome driver utilisé est : 
+https://l.facebook.com/l.php?u=https%3A%2F%2Fchromedriver.chromium.org%2Fdownloads%3Ffbclid%3DIwAR2v13YBR2qUWzxwm8BPDOgCKH3GFdq38n9wLsEYEUB0K-huigx3lkBhQ-U&h=AT15ZP4xACvFyfVtzKZVBq8I223gr2FXzqINyX_h0gS-P7O4l2ttJgQTqpPK9du-cf1Gbzx-Ph5jsg2E2KhbXilYGuQ6kpMaSrBjjPTmTmUS_DQcojsCHXmV70qN1ml4Re7-9A
 
 ###Structure 
 1ere Partie : 
@@ -11,7 +13,7 @@ bs4, time.
 -Affichage des plats
 -Choix du plat
 -Extraction de la recette de marmiton et ingrédients
-NB: le choix du plat doit être un numéro allant de 0 à 3
+NB: le choix du plat doit être un numéro allant de 0 à 2
 2ere Partie : 
 -Extraction des données sur Monoprix
 -Réalisation du panier 
